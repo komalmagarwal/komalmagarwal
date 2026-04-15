@@ -1,10 +1,6 @@
 # Hi, I'm Komal Agarwal 👋
 
-**Global strategy leader** with 14+ years of experience delivering AI, data strategy, and digital transformation in financial services, sustainability, and emerging markets.  
-Currently:  
-- 📚 Pursuing **LBS Sloan Masters in Leadership & Strategy** (Dec 2026)  
-- 🎓 Enrolled in **UT Austin MSAI (Option III)** – Spring 2026  
-- 🌍 Based in London from Dec 2025  
+**Global strategy leader** with 14+ years of experience delivering AI, data strategy, and digital transformation in financial services, sustainability, and emerging markets.   
 
 ---
 
