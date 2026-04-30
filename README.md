@@ -49,11 +49,14 @@ stack = {
 
 | Repo | What it is |
 |------|------------|
-| [sola-public](https://github.com/komalmagarwal/sola-public) | Sola product showcase - screenshots, architecture, stack |
-| [ai-financial-disclosures](https://github.com/komalmagarwal/ai-financial-disclosures) | AI applied to financial disclosure analysis - NLP pipeline for FS compliance |
+| [sola-public](https://github.com/komalmagarwal/sola-public) | Sola product showcase — screenshots, architecture, stack |
+| [ai-financial-disclosures](https://github.com/komalmagarwal/ai-financial-disclosures) | NLP pipeline for financial disclosure classification and summarisation |
 | [blockchain-land-titles](https://github.com/komalmagarwal/blockchain-land-titles) | Blockchain-based land title verification for emerging market financial inclusion |
+| [ems-course-booking-agent](https://github.com/komalmagarwal/ems-course-booking-agent) | Autonomous agent that monitors emails and books courses on your behalf |
+| [customer-clustering-cross-sell](https://github.com/komalmagarwal/customer-clustering-cross-sell) | ML clustering for customer segmentation and cross-sell at a securities exchange |
+| [automated-complaint-response](https://github.com/komalmagarwal/automated-complaint-response) | AI agent achieving 80% complaint deflection at a securities exchange |
 
-*Core Sola application code is private.*
+*Core Sola application code is private. Client work repos are private.*
 
 ---
 
