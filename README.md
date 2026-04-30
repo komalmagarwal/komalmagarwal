@@ -8,10 +8,10 @@ Currently: founder of **Sola** - a mobile-first platform helping adults aged 55+
 
 ## 🌱 What I'm building
 
-### Sola — Active Ageing, Redefined
+### Sola. Active Ageing, Redefined
 > *The product is not information. The product is the first step.*
 
-Over 20 million adults aged 50+ live in the UK — inactive, isolated, ageing faster than they need to. Not because they lack motivation, but because intimidation and social friction stop them before they begin.
+Over 20 million adults aged 50+ live in the UK - inactive, isolated, ageing faster than they need to. Not because they lack motivation, but because intimidation and social friction stop them before they begin.
 
 Sola is a behavioural platform designed to move inactive adults through the confidence barrier into sustained participation. Activity discovery, social matching, habit formation, and an NHS social prescribing pathway - built specifically for adults who need the first step made easy.
 
