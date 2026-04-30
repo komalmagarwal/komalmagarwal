@@ -2,7 +2,7 @@
 
 I build at the intersection of healthcare, technology, and financial services. 
 
-Currently: founder of **Sola** — a mobile-first platform helping adults aged 55+ find local, age-appropriate movement and community. MVP live and in testing. Based in London.
+Currently: founder of **Sola** - a mobile-first platform helping adults aged 55+ find local, age-appropriate movement and community. MVP live and in testing. Based in London.
 
 ---
 
@@ -49,8 +49,8 @@ stack = {
 
 | Repo | What it is |
 |------|------------|
-| [sola-public](https://github.com/komalmagarwal/sola-public) | Sola product showcase — screenshots, architecture, stack |
-| [ai-financial-disclosures](https://github.com/komalmagarwal/ai-financial-disclosures) | AI applied to financial disclosure analysis — NLP pipeline for FS compliance |
+| [sola-public](https://github.com/komalmagarwal/sola-public) | Sola product showcase - screenshots, architecture, stack |
+| [ai-financial-disclosures](https://github.com/komalmagarwal/ai-financial-disclosures) | AI applied to financial disclosure analysis - NLP pipeline for FS compliance |
 | [blockchain-land-titles](https://github.com/komalmagarwal/blockchain-land-titles) | Blockchain-based land title verification for emerging market financial inclusion |
 
 *Core Sola application code is private.*
