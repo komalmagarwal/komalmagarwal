@@ -1,23 +1,60 @@
-# Hi, I'm Komal Agarwal 👋
+# Hi, I'm Komal
 
-**Global strategy leader** with 14+ years of experience delivering AI, data strategy, and digital transformation in financial services, sustainability, and emerging markets.   
+I build at the intersection of healthcare, technology, and financial services. 
 
----
-
-## 🔹 Featured Projects
-- [AI for Financial Disclosures](https://github.com/komalagarwal/ai-financial-disclosures) – NLP pipeline to classify and summarize financial reports.  
-- [Blockchain Land Titles](https://github.com/komalagarwal/blockchain-land-titles) – Blockchain prototype for secure land ownership records.  
+Currently: founder of **Sola** — a mobile-first platform helping adults aged 55+ find local, age-appropriate movement and community. MVP live and in testing. Based in London.
 
 ---
 
-## 🔹 Skills
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange)
-![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-green)
-![Blockchain](https://img.shields.io/badge/-Blockchain-lightgrey)
-![Data Strategy](https://img.shields.io/badge/-Data%20Strategy-purple)
+## 🌱 What I'm building
+
+### Sola — Active Ageing, Redefined
+> *The product is not information. The product is the first step.*
+
+Over 20 million adults aged 50+ live in the UK — inactive, isolated, ageing faster than they need to. Not because they lack motivation, but because intimidation and social friction stop them before they begin.
+
+Sola is a behavioural platform designed to move inactive adults through the confidence barrier into sustained participation. Activity discovery, social matching, habit formation, and an NHS social prescribing pathway - built specifically for adults who need the first step made easy.
+
+**Status:** MVP live · 5 beta users aged 55–75 · 3 studio partners committed · GP conversations underway
+
+**Stack:** Python · FastAPI · Supabase · HTML/CSS · Claude API · xAPI (NHS compliance layer)
 
 ---
 
-📫 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/komalmagarwal) • [Email](mailto:komal.m.agarwal@gmail.com)
+## Background
+
+14+ years across McKinsey, Oliver Wyman, Arthur D. Little, World Bank, and Citi — advising healthcare, financial services, and public sector organisations on strategy, digital transformation, and AI.
+
+Previously co-founded **Grassroot Solutions**, scaling financial inclusion access to 25M+ individuals across 35 districts.
+
+Currently completing dual Master's degrees in Leadership & Strategy (LBS) and Data Science & AI (University of London). Certified Pilates instructor. The founder-market fit is personal.
+
+---
+
+## What I work with
+
+```python
+stack = {
+    "languages":   ["Python", "HTML", "CSS", "JavaScript"],
+    "backend":     ["FastAPI", "Flask"],
+    "database":    ["Supabase", "PostgreSQL"],
+    "ai":          ["Claude API", "xAPI / Tin Can"],
+    "tools":       ["GitHub", "Cursor", "Render"],
+}
+```
+
+---
+
+## Public repos
+
+| Repo | What it is |
+|------|------------|
+| [sola-public](https://github.com/komalmagarwal/sola-public) | Sola product showcase — screenshots, architecture, stack |
+| [ai-financial-disclosures](https://github.com/komalmagarwal/ai-financial-disclosures) | AI applied to financial disclosure analysis — NLP pipeline for FS compliance |
+| [blockchain-land-titles](https://github.com/komalmagarwal/blockchain-land-titles) | Blockchain-based land title verification for emerging market financial inclusion |
+
+*Core Sola application code is private.*
+
+---
+
+📧 kagarwal.sln2026@london.edu · [LinkedIn](https://linkedin.com/in/komalmagarwal) · [Sola](https://sola.com)
