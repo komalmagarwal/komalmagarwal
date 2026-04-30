@@ -23,7 +23,7 @@ Sola is a behavioural platform designed to move inactive adults through the conf
 
 ## Background
 
-14+ years across McKinsey, Oliver Wyman, Arthur D. Little, World Bank, and Citi — advising healthcare, financial services, and public sector organisations on strategy, digital transformation, and AI.
+14+ years across McKinsey, Oliver Wyman, Arthur D. Little, World Bank, and Citi; advising healthcare, financial services, and public sector organisations on strategy, digital transformation, and AI.
 
 Previously co-founded **Grassroot Solutions**, scaling financial inclusion access to 25M+ individuals across 35 districts.
 
@@ -49,7 +49,7 @@ stack = {
 
 | Repo | What it is |
 |------|------------|
-| [sola-public](https://github.com/komalmagarwal/sola-public) | Sola product showcase — screenshots, architecture, stack |
+| [sola-public](https://github.com/komalmagarwal/sola-public) | Sola product showcase: screenshots, architecture, stack |
 | [ai-financial-disclosures](https://github.com/komalmagarwal/ai-financial-disclosures) | NLP pipeline for financial disclosure classification and summarisation |
 | [blockchain-land-titles](https://github.com/komalmagarwal/blockchain-land-titles) | Blockchain-based land title verification for emerging market financial inclusion |
 | [ems-course-booking-agent](https://github.com/komalmagarwal/ems-course-booking-agent) | Autonomous agent that monitors emails and books courses on your behalf |
