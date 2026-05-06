@@ -51,16 +51,16 @@ stack = {
 
 | Repo | What it is |
 |------|------------|
-| [sola-public](https://github.com/komalmagarwal/sola-public) | Sola product showcase — screenshots, architecture, stack |
+| [sola-public](https://github.com/komalmagarwal/sola-public) | Sola product showcase: screenshots, architecture, stack |
 | [ai-financial-disclosures](https://github.com/komalmagarwal/ai-financial-disclosures) | NLP pipeline for financial disclosure classification and summarisation |
 | [blockchain-land-titles](https://github.com/komalmagarwal/blockchain-land-titles) | Blockchain-based land title verification for emerging market financial inclusion |
 | [ems-course-booking-agent](https://github.com/komalmagarwal/ems-course-booking-agent) | Autonomous agent that monitors emails and books courses on your behalf |
 | [customer-clustering-cross-sell](https://github.com/komalmagarwal/customer-clustering-cross-sell) | ML clustering for customer segmentation and cross-sell at a securities exchange |
 | [automated-complaint-response](https://github.com/komalmagarwal/automated-complaint-response) | AI agent achieving 80% complaint deflection at a securities exchange |
-| [uol-machine-learning](https://github.com/komalmagarwal/uol-machine-learning) | Wine quality binary classification — comparing supervised and unsupervised models |
+| [uol-machine-learning](https://github.com/komalmagarwal/uol-machine-learning) | Wine quality binary classification: comparing supervised and unsupervised models |
 | [uol-data-science-research](https://github.com/komalmagarwal/uol-data-science-research) | Predicting GCSE attainment from deprivation and absence rates across English local authorities |
 | [uol-financial-text-ml](https://github.com/komalmagarwal/uol-financial-text-ml) | FinBERT vs traditional ML for stock direction prediction from earnings call transcripts |
-| [uol-network-science](https://github.com/komalmagarwal/uol-network-science) | Disease-gene bipartite network analysis — 519 diseases, 7,294 genes, 21,357 edges |
+| [uol-network-science](https://github.com/komalmagarwal/uol-network-science) | Disease-gene bipartite network analysis: 519 diseases, 7,294 genes, 21,357 edges |
 
 *Core Sola application code is private. Client work repos are private.*
 
